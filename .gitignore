@@ -1,0 +1,8 @@
+// posso indicar manualmente os fichiros que não quero!
+site.zip
+
+// posso indicar o tipo de ficheiros
+*.zip
+
+// posso indicar pastas que não quero!
+/venv
